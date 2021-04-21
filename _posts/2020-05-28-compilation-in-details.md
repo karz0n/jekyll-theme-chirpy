@@ -200,3 +200,8 @@ To look the list of relocations:
 ```bash
 $ readelf -r <file>.o
 ```
+
+To disassemble file:
+```bash
+$ objdump -d <file>.o > <file>.d
+```

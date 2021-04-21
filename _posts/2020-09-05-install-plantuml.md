@@ -1,7 +1,7 @@
 ---
 title: "Install PlantUML"
 date: 2020-09-05
-categories: [Development,General]
+categories: [Development,Tools]
 tags: [plantuml]
 ---
 

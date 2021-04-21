@@ -54,7 +54,7 @@ $ /lib64/ld-linux-x86-64.so.2 --list <file> # (depends on used linker)
 ```
 List symbols in file:
 ```bash
-$ nm -CD <file>
+$ nm -CnD <file>
 ```
 
 ## Configuration
