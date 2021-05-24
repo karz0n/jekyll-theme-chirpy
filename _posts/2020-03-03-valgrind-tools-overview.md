@@ -1,7 +1,7 @@
 ---
 title: "Valgrind tools overview"
 date: 2020-03-01
-categories: [Development,General]
+categories: [Development,Tools]
 tags: [memory,valgrind]
 ---
 
@@ -176,7 +176,6 @@ Using:
 ```bash
 $ valgrind --tool=drd example.x
 ```
-
 
 
 
